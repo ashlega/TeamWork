@@ -74,7 +74,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="Solution\TeamWork_1_0_0_0 %281%29.zip" />
+    <None Include="Solution\TeamWork_1_0_0_0.zip" />
     <None Include="TeamWork.snk" />
   </ItemGroup>
   <ItemGroup />
