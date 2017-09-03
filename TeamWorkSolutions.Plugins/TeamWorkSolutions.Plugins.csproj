@@ -74,11 +74,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="Solution\TeamWork_1_0_0_0.zip" />
     <None Include="TeamWork.snk" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Solution\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
