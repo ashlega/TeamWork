@@ -75,6 +75,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="Solution\TeamWork_1_0_0_0.zip" />
+    <None Include="Solution\TeamWork_1_0_0_0_target_CRM_8.1.zip" />
     <None Include="TeamWork.snk" />
   </ItemGroup>
   <ItemGroup />
